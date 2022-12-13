@@ -1,0 +1,30 @@
+.bloc-velo{
+    color:brown;
+    border: solid 5px;
+    margin: 50px;
+    padding: 50px;
+    background-color: bisque;
+}
+  
+h1{
+    color: black;
+}
+.bloc-trott{ 
+    color: rgb(176, 227, 22);
+    border: solid 10px;
+    margin: 30px;
+    padding: 30px;
+    background-color: aquamarine;
+    background-image:url(kbo-bike-2hVDxR3H2j8-unsplash.jpg)
+     ;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+.sectionTrottVelo{
+    display:flex;
+    border:solid 5px
+}
+h2{
+    color: rgb(210, 227, 227);
+}
